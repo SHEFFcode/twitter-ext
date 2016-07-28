@@ -1,6 +1,6 @@
 chrome.contextMenus.create({
   title: 'Twitter Social Toolkit',
-  contexts: ['selection'],
+  contexts: ['page'],
   onclick: myFunction
 });
 
